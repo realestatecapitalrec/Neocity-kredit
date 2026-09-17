@@ -1,0 +1,8 @@
+{
+  "name": "Neo Kredit Hesablama",
+  "description": "Neo City Kredit — Mənzillərin nəğd və 12-60 aylıq kredit hesablama və idarəetmə bazası",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
